@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patient xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>1</id>
+  <bleID>1</bleID>
+  <history>Patient complained of chest pain.  Cards ruled out MI</history>
+  <name>Jane Doe</name>
+  <BP_High>125</BP_High>
+  <BP_Low>90</BP_Low>
+  <Pulse>52</Pulse>
+  <O2Sat>99</O2Sat>
+  <ecg_dt>0</ecg_dt>
+  <height>66</height>
+  <weight>50</weight>
+  <age>24</age>
+  <sex>female</sex>
+  <currentPatient>true</currentPatient>
+</Patient>

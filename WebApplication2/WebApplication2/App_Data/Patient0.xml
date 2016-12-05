@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patient xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>0</id>
+  <bleID>0</bleID>
+  <history>Patient presents with shortness of breath and dizzyness</history>
+  <name>John Doe</name>
+  <BP_High>120</BP_High>
+  <BP_Low>80</BP_Low>
+  <Pulse>50</Pulse>
+  <O2Sat>95</O2Sat>
+  <ecg_dt>0</ecg_dt>
+  <height>72</height>
+  <weight>74</weight>
+  <age>24</age>
+  <sex>male</sex>
+  <currentPatient>false</currentPatient>
+</Patient>
