@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{5295C1E5-2701-4012-B4CE-A4D1374F05C3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloGlassWorld/AndroidEnvironments.txt">
+    <Files>
+      <File FileName="HelloGlassWorld/Properties/AssemblyInfo.cs" Line="7" Column="38" />
+      <File FileName="HelloGlassWorld/Resources/values/Strings.xml" Line="1" Column="1" />
+      <File FileName="HelloGlassWorld/Resources/AboutResources.txt" Line="1" Column="1" />
+      <File FileName="HelloGlassWorld/Resources/Resource.designer.cs" Line="1" Column="1" />
+      <File FileName="HelloGlassWorld/AndroidEnvironments.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloGlassWorld" expanded="True">
+            <Node name="ESP_MP_History" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="ComponentReferenceFolder" expanded="True" />
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+                <Node name="values" expanded="True" />
+                <Node name="xml" expanded="True" />
+              </Node>
+              <Node name="AndroidEnvironments.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ESP__MP__History PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>

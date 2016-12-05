@@ -1,0 +1,14 @@
+/bevsci/googleglass-22.0.0.1/samples/ESP_MP/HelloGlassWorld/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/bevsci/googleglass-22.0.0.1/samples/ESP_MP/HelloGlassWorld/bin/Debug/HelloGlassWorld.dll.mdb
+/bevsci/googleglass-22.0.0.1/samples/ESP_MP/HelloGlassWorld/bin/Debug/HelloGlassWorld.dll
+/bevsci/googleglass-22.0.0.1/samples/ESP_MP/HelloGlassWorld/bin/Debug/ESP_MP.History.apk
+/bevsci/googleglass-22.0.0.1/samples/ESP_MP/HelloGlassWorld/obj/Debug/android/bin/ESP_MP.History.apk
+/bevsci/googleglass-22.0.0.1/samples/ESP_MP/HelloGlassWorld/obj/Debug/res/values/strings.xml
+/bevsci/googleglass-22.0.0.1/samples/ESP_MP/HelloGlassWorld/obj/Debug/res/xml/voicetriggerstart.xml
+/bevsci/googleglass-22.0.0.1/samples/ESP_MP/HelloGlassWorld/obj/Debug/res/drawable/icon.png
+/bevsci/googleglass-22.0.0.1/samples/ESP_MP/HelloGlassWorld/obj/Debug/R.cs.flag
+/bevsci/googleglass-22.0.0.1/samples/ESP_MP/HelloGlassWorld/bin/Debug/ESP_MP.History-Signed.apk
+/bevsci/googleglass-22.0.0.1/samples/ESP_MP/HelloGlassWorld/obj/Debug/uploadflags.txt
+/bevsci/googleglass-22.0.0.1/samples/ESP_MP/HelloGlassWorld/obj/Debug/HelloGlassWorld.dll
+/bevsci/googleglass-22.0.0.1/samples/ESP_MP/HelloGlassWorld/obj/Debug/HelloGlassWorld.dll.mdb
+/bevsci/googleglass-22.0.0.1/samples/ESP_MP/HelloGlassWorld/bin/Debug/Xamarin.Google.Glass.dll

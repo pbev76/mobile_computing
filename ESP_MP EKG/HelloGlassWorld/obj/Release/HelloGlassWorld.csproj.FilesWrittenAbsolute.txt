@@ -1,0 +1,14 @@
+/Users/msekteer/Downloads/googleglass-22.0.0.1/samples/HelloGlassWorld/HelloGlassWorld/obj/Release/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/msekteer/Downloads/googleglass-22.0.0.1/samples/HelloGlassWorld/HelloGlassWorld/bin/Release/HelloGlassWorld.dll.mdb
+/Users/msekteer/Downloads/googleglass-22.0.0.1/samples/HelloGlassWorld/HelloGlassWorld/bin/Release/HelloGlassWorld.dll
+/Users/msekteer/Downloads/googleglass-22.0.0.1/samples/HelloGlassWorld/HelloGlassWorld/bin/Release/HelloGlassWorld.HelloGlassWorld.apk
+/Users/msekteer/Downloads/googleglass-22.0.0.1/samples/HelloGlassWorld/HelloGlassWorld/obj/Release/android/bin/HelloGlassWorld.HelloGlassWorld.apk
+/Users/msekteer/Downloads/googleglass-22.0.0.1/samples/HelloGlassWorld/HelloGlassWorld/obj/Release/res/values/strings.xml
+/Users/msekteer/Downloads/googleglass-22.0.0.1/samples/HelloGlassWorld/HelloGlassWorld/obj/Release/res/xml/voicetriggerstart.xml
+/Users/msekteer/Downloads/googleglass-22.0.0.1/samples/HelloGlassWorld/HelloGlassWorld/obj/Release/res/drawable/icon.png
+/Users/msekteer/Downloads/googleglass-22.0.0.1/samples/HelloGlassWorld/HelloGlassWorld/obj/Release/R.cs.flag
+/Users/msekteer/Downloads/googleglass-22.0.0.1/samples/HelloGlassWorld/HelloGlassWorld/bin/Release/HelloGlassWorld.HelloGlassWorld-Signed.apk
+/Users/msekteer/Downloads/googleglass-22.0.0.1/samples/HelloGlassWorld/HelloGlassWorld/obj/Release/uploadflags.txt
+/Users/msekteer/Downloads/googleglass-22.0.0.1/samples/HelloGlassWorld/HelloGlassWorld/obj/Release/HelloGlassWorld.dll
+/Users/msekteer/Downloads/googleglass-22.0.0.1/samples/HelloGlassWorld/HelloGlassWorld/obj/Release/HelloGlassWorld.dll.mdb
+/Users/msekteer/Downloads/googleglass-22.0.0.1/samples/HelloGlassWorld/HelloGlassWorld/bin/Release/Xamarin.Google.Glass.dll

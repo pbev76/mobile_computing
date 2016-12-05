@@ -1,0 +1,28 @@
+HelloGlassWorld.MainActivity, HelloGlassWorld;md52b4c9bbc46a4438962724dbb865d31c8.MainActivity
+HelloGlassWorld.MainActivity, HelloGlassWorld, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52b4c9bbc46a4438962724dbb865d31c8.MainActivity
+HelloGlassWorld.MainActivity;md52b4c9bbc46a4438962724dbb865d31c8.MainActivity
+helloglassworld.MainActivity;md52b4c9bbc46a4438962724dbb865d31c8.MainActivity
+Android.Glass.Touchpad.GestureDetector/IBaseListenerImplementor, Xamarin.Google.Glass;mono.com.google.android.glass.touchpad.GestureDetector_BaseListenerImplementor
+Android.Glass.Touchpad.GestureDetector+IBaseListenerImplementor, Xamarin.Google.Glass, Version=2.2.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.glass.touchpad.GestureDetector_BaseListenerImplementor
+Android.Glass.Touchpad.GestureDetector.IBaseListenerImplementor;mono.com.google.android.glass.touchpad.GestureDetector_BaseListenerImplementor
+mono.com.google.android.glass.touchpad.GestureDetector_BaseListenerImplementor;mono.com.google.android.glass.touchpad.GestureDetector_BaseListenerImplementor
+Android.Glass.Touchpad.GestureDetector/IFingerListenerImplementor, Xamarin.Google.Glass;mono.com.google.android.glass.touchpad.GestureDetector_FingerListenerImplementor
+Android.Glass.Touchpad.GestureDetector+IFingerListenerImplementor, Xamarin.Google.Glass, Version=2.2.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.glass.touchpad.GestureDetector_FingerListenerImplementor
+Android.Glass.Touchpad.GestureDetector.IFingerListenerImplementor;mono.com.google.android.glass.touchpad.GestureDetector_FingerListenerImplementor
+mono.com.google.android.glass.touchpad.GestureDetector_FingerListenerImplementor;mono.com.google.android.glass.touchpad.GestureDetector_FingerListenerImplementor
+Android.Glass.Touchpad.GestureDetector/IOneFingerScrollListenerImplementor, Xamarin.Google.Glass;mono.com.google.android.glass.touchpad.GestureDetector_OneFingerScrollListenerImplementor
+Android.Glass.Touchpad.GestureDetector+IOneFingerScrollListenerImplementor, Xamarin.Google.Glass, Version=2.2.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.glass.touchpad.GestureDetector_OneFingerScrollListenerImplementor
+Android.Glass.Touchpad.GestureDetector.IOneFingerScrollListenerImplementor;mono.com.google.android.glass.touchpad.GestureDetector_OneFingerScrollListenerImplementor
+mono.com.google.android.glass.touchpad.GestureDetector_OneFingerScrollListenerImplementor;mono.com.google.android.glass.touchpad.GestureDetector_OneFingerScrollListenerImplementor
+Android.Glass.Touchpad.GestureDetector/IScrollListenerImplementor, Xamarin.Google.Glass;mono.com.google.android.glass.touchpad.GestureDetector_ScrollListenerImplementor
+Android.Glass.Touchpad.GestureDetector+IScrollListenerImplementor, Xamarin.Google.Glass, Version=2.2.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.glass.touchpad.GestureDetector_ScrollListenerImplementor
+Android.Glass.Touchpad.GestureDetector.IScrollListenerImplementor;mono.com.google.android.glass.touchpad.GestureDetector_ScrollListenerImplementor
+mono.com.google.android.glass.touchpad.GestureDetector_ScrollListenerImplementor;mono.com.google.android.glass.touchpad.GestureDetector_ScrollListenerImplementor
+Android.Glass.Touchpad.GestureDetector/ITwoFingerScrollListenerImplementor, Xamarin.Google.Glass;mono.com.google.android.glass.touchpad.GestureDetector_TwoFingerScrollListenerImplementor
+Android.Glass.Touchpad.GestureDetector+ITwoFingerScrollListenerImplementor, Xamarin.Google.Glass, Version=2.2.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.glass.touchpad.GestureDetector_TwoFingerScrollListenerImplementor
+Android.Glass.Touchpad.GestureDetector.ITwoFingerScrollListenerImplementor;mono.com.google.android.glass.touchpad.GestureDetector_TwoFingerScrollListenerImplementor
+mono.com.google.android.glass.touchpad.GestureDetector_TwoFingerScrollListenerImplementor;mono.com.google.android.glass.touchpad.GestureDetector_TwoFingerScrollListenerImplementor
+Android.Glass.Widget.Slider/IGracePeriodListenerImplementor, Xamarin.Google.Glass;mono.com.google.android.glass.widget.Slider_GracePeriod_ListenerImplementor
+Android.Glass.Widget.Slider+IGracePeriodListenerImplementor, Xamarin.Google.Glass, Version=2.2.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.glass.widget.Slider_GracePeriod_ListenerImplementor
+Android.Glass.Widget.Slider.IGracePeriodListenerImplementor;mono.com.google.android.glass.widget.Slider_GracePeriod_ListenerImplementor
+mono.com.google.android.glass.widget.Slider_GracePeriod_ListenerImplementor;mono.com.google.android.glass.widget.Slider_GracePeriod_ListenerImplementor
